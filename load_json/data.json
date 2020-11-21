@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Arbaz",
+    "age" : "23",
+    "height": "5.7",
+    "gender": "male"
+  },
+  {
+    "name": "zafar",
+    "age" : "23",
+    "height": "5.7",
+    "gender": "male"
+  },
+  {
+    "name": "hamza",
+    "age" : "23",
+    "height": "5.7",
+    "gender": "male"
+  },
+  {
+    "name": "wasif",
+    "age" : "23",
+    "height": "5.7",
+    "gender": "male"
+  }
+]
